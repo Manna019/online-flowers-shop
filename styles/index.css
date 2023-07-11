@@ -152,3 +152,9 @@
 .all{
     text-align: center;
 }
+.img-pink{
+    display: flex;
+    height: 200px;
+    margin-left: 50px;
+    gap: 25px;
+}
